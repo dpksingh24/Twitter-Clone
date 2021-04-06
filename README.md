@@ -15,7 +15,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![](demo/msg.png)
 
 
-### _dear students hope you doing great, First i'd like to say thank you and if you need my any help i'll be there. You can contact me on Instagram or direct MAIL me:_
+### _dear students hope you doing great, if you need my any help i'll be there. You can contact me on Instagram or direct MAIL me:_
 
 [![Twitter Badge](https://img.shields.io/badge/-@Deepak_Rawat_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Deepak_Rawat_) 
 [![Mail Badge](https://img.shields.io/badge/-Deepak_Rawat-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3qaBznqWP7F6sYOkN5OEGg) 
