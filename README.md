@@ -15,7 +15,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![](demo/msg.png)
 
 
-### _dear students hope you doing great, if you need my any help i'll be there. You can contact me on Instagram or direct MAIL me:_
+### _dear friends hope you doing great, if you need my any help i'll be there. You can contact me on Instagram or direct MAIL me:_
 
 [![Twitter Badge](https://img.shields.io/badge/-@Deepak_Rawat_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Deepak_Rawat_) 
 [![Mail Badge](https://img.shields.io/badge/-Deepak_Rawat-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3qaBznqWP7F6sYOkN5OEGg) 
@@ -26,9 +26,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ## If you want a whole file including .SQL then its paid !!
 
 [![Mail Badge](https://img.shields.io/badge/-Deepak_Rawat-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dpkrwt00@gmail.com) [![Mail Badge](https://img.shields.io/badge/-@Deepak_Rawat-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dpk__rwt_/) 
-
-
-### _Secondly your review is valueble for other students to choose this course, And if you get struck message me right away and i'll reply in no time._
 
 Make sure to add your mysql user,db pass in connection.php file, and if you are not using localhost then replace the domain path from init.php and all ajax files with your domain name. And in your tweet class, look for getTweetLinks method and it's urls to your domain url.
 
